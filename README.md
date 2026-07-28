@@ -3,8 +3,8 @@ Lermonade/Lermonade is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hellooooo 💫, I'm Silas</h1>
-<h3 align="center">A sleepless Purdue student and space debris fan</h3><br>
+<h1 align="center">Hello 💫, I'm Silas</h1>
+<h3 align="center">A Purdue student and space debris fan</h3><br>
 
 
 
@@ -37,10 +37,6 @@ You can click the Preview link to take a look at your changes.
 <br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lermonade&theme=dark" alt="lermonade" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lermonade&show_icons=true&theme=dark&locale=en" alt="lermonade" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lermonade&show_icons=true&theme=dark&locale=en&layout=compact" alt="lermonade" /></p>
 
 <br>
 
