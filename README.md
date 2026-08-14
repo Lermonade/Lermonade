@@ -37,7 +37,3 @@ You can click the Preview link to take a look at your changes.
 <br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lermonade&theme=dark" alt="lermonade" /></p>
-
-<br>
-
-<p>meow</p>
